@@ -152,21 +152,22 @@ created_at: "17/06/2025"
 
 ---
 ## Images
-- ![alt text](3ddd.jpg)   
-- ![alt text](3dds.jpg)
-- ![alt text](3ds.jpg)
-- ![alt text](<Pictu9re1.png>)
-- ![alt text](Pictur7e1.png)
+- ![alt text](assests/3ddd.jpg)   
+- ![alt text](assests/3dds.jpg)
+- ![alt text](assests/3ds.jpg)
+- ![alt text](assests/Pictu9re1.png)
+- ![alt text](assests/Pictur7e1.png)
 ### Expected results
-- ![the data distribution for Age and Physical activity level in the dataset from](image.png)
-- ![a heatmap of correlation for the features in the Sleep Quality dataset.](image-1.png)
-- ![the classification report for the XGBoost classifier (AI model)](image-2.png)
-- ![readings of Heart rate and GSR sensors and the time elapsed for displaying the data in the application with some statistical analysis](image-3.png)
-- ![This interprets the model.](image-4.png)
-- ![Illustrate the position, in which the user sleep](image-5.png)
+- ![the data distribution for Age and Physical activity level in the dataset from](assests/image.png)
+- ![a heatmap of correlation for the features in the Sleep Quality dataset.](assests/image-1.png)
+- ![the classification report for the XGBoost classifier (AI model)](assests/image-2.png)
+- ![readings of Heart rate and GSR sensors and the time elapsed for displaying the data in the application with some statistical analysis](assests/image-3.png)
+- ![This interprets the model.](assests/image-4.png)
+- ![Illustrate the position, in which the user sleep](assests/image-5.png)
 ### Analysis
-- ![Pipeline structure](image-6.png)
-- ![AI models: XGBoosting as a Classifier](image-7.png)
-- ![AI models: XGBoosting as a Classifier](image-8.png)
-- ![XGBoosting as a regressor](image-9.png)
+- ![Pipeline structure](assests/image-6.png)
+- ![AI models: XGBoosting as a Classifier](assests/image-7.png)
+- ![AI models: XGBoosting as a Classifier](assests/image-8.png)
+- ![XGBoosting as a regressor](assests/image-9.png)
+
 
