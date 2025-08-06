@@ -140,19 +140,3 @@ When most of the technical work was done, I went through the whole journal, READ
 **Hours spent:** 6  
 The finishing. I tidied up the codebase, and made clear comments, and gave one final full test of all hardware and software. To conclude on this test, I took the logs, screenshots, and system behaviour after an entire night simulation test.
 
----
-
-
-## Images
-
-### Expected results
-
-### Analysis
-
-
-
-
-
-
-
-
