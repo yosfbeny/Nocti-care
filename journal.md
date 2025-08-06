@@ -15,7 +15,7 @@ created_at: "17/06/2025"
 **Hours spent:** 6  
 I began the Nocti-Care project by sketching out the earliest concept of the wearable itself. The vision was a soft, lightweight wristband that could be worn overnight without discomfort. I dove into academic and technical literature on sleep monitoring technologies and shortlisted potential sensor types — including GSR for stress, HRM for heart rate, and a gyroscope for motion tracking. I also drew up a system block diagram to visualize how data would flow from these sensors, through the processor, into the cloud, and eventually back to the user’s phone.
 
-- ![the data distribution for Age and Physical activity level in the dataset from](assets/image.png)
+- ![the data distribution for Age and Physical activity level in the dataset from](assests/image.png)
 
 ---
 
@@ -53,7 +53,7 @@ I wanted to confirm the heart rate sensor's reliability, so I simulated BPM inpu
 **Hours spent:** 5  
 I connected a 0.96” OLED display via I2C and programmed it to show live GSR and heart rate data. I began building a simple user interface — showing status icons for "sleep mode" and a progress bar for duration tracking. I also added a small buzzer module, which could be triggered in case of wake-up events or irregular sensor readings.
 
-![readings of Heart rate and GSR sensors and the time elapsed for displaying the data in the application with some statistical analysis](assets/image-3.png)
+![readings of Heart rate and GSR sensors and the time elapsed for displaying the data in the application with some statistical analysis](assests/image-3.png)
 
 ---
 
@@ -67,7 +67,7 @@ Cloud integration was the main focus today. I worked on uploading structured dat
 **Hours spent:** 5  
 Today I began work on the machine learning side of the system. Using Python, I simulated a dataset based on historical patterns and trained a basic decision tree classifier. The goal was to label sleep quality and detect signs of stress. I managed to generate personalized suggestions and route them back to the device — it was the first glimpse of Nocti-Care’s adaptive feedback loop working.
 
-![the classification report for the XGBoost classifier (AI model)](assets/image-2.png)
+![the classification report for the XGBoost classifier (AI model)](assests/image-2.png)
 
 ---
 
@@ -81,7 +81,7 @@ I connected a prototype of the mobile app, built in Flutter, to Firebase. It dis
 **Hours spent:** 5  
 More refinements today. I adjusted the 3D design for better wrist comfort by smoothing the enclosure's edges and adding a battery clip to secure the internals. I simulated internal heat buildup to identify hot spots and added ventilation points. I decided to use TPU for the strap, due to its flexibility, and ABS for the housing to provide durability without bulk.
 
-![Illustrate the position, in which the user sleep](assets/image-5.png)
+![Illustrate the position, in which the user sleep](assests/image-5.png)
 
 ---
 
@@ -107,7 +107,7 @@ I focused on organizing all project assets. I compiled and labeled the 3D models
 **Hours spent:** 6  
 I finalized the README structure, making sure to cover every aspect: purpose, system overview, diagrams, and visuals. I also created a well-organized Bill of Materials (BOM) with accurate links and prices. I double-checked every reference to make sure it would be easy for anyone to replicate the project.
 
-![Pipeline structure](assets/image-6.png)
+![Pipeline structure](assests/image-6.png)
 
 ---
 
@@ -115,11 +115,11 @@ I finalized the README structure, making sure to cover every aspect: purpose, sy
 **Hours spent:** 8  
 One of the most intense days. I ran simulated sleep cycles — including insomnia, irregular breathing, and restless movement — to see how the system responded. I fine-tuned the firmware’s thresholds for motion and stress detection. Then I ran the full setup for eight hours to verify long-term data integrity and power stability.
 
-![a heatmap of correlation for the features in the Sleep Quality dataset.](assets/image-1.png)  
-![This interprets the model.](assets/image-4.png)  
-![AI models: XGBoosting as a Classifier](assets/image-7.png)  
-![AI models: XGBoosting as a Classifier](assets/image-8.png)  
-![XGBoosting as a regressor](assets/image-9.png)
+![a heatmap of correlation for the features in the Sleep Quality dataset.](assests/image-1.png)  
+![This interprets the model.](assests/image-4.png)  
+![AI models: XGBoosting as a Classifier](assests/image-7.png)  
+![AI models: XGBoosting as a Classifier](assests/image-8.png)  
+![XGBoosting as a regressor](assests/image-9.png)
 
 ---
 
@@ -145,6 +145,7 @@ The final touches. I cleaned up the codebase, added clear annotations, and did o
 ### Expected results
 
 ### Analysis
+
 
 
 
