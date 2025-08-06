@@ -26,7 +26,7 @@ Poor sleep quality is a major contributor to long-term health issues. However, a
 - ![alt text](assests/3ddd.jpg)   
 - ![alt text](assests/3dds.jpg)
 - ![alt text](assests/3ds.jpg)
-- ![alt text](assests/<Pictu9re1.png>)
+- ![alt text](assests/Pictu9re1.png)
 - ![alt text](assests/Pictur7e1.png)
 ---
 
@@ -55,3 +55,4 @@ Poor sleep quality is a major contributor to long-term health issues. However, a
 ---
 ### Note 
 i can't provide for all the materials its links because this is what i found online and i am planning to buy it from the stores around me and it's cheaper, i am only asking to get my fund (reimbrusement) after you se my reciept.
+
