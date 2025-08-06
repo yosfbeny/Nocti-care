@@ -5,7 +5,7 @@ Heart Rate Sensor,Pulse sensor for BPM detection,1,105,105,https://www.amazon.co
 MPU6050,Accelerometer + Gyroscope,1,3,3,https://www.ram-e-shop.com/ar/shop/kit-imu-mpu6050-gy521-imu-6-dof-mpu-6050
 ESP8266,Wi-Fi Module,1,3,3,https://store.fut-electronics.com/products/wifi-serial-ttl-module
 Jumper Wires + Breadboard,Connections and prototyping base,1,16,16,https://www.adafruit.com/product/239
-OLED Display,0.96" I2C Display,1,11,11,https://www.amazon.eg/dp/B09H19NKNW
+OLED Display,0.96 I2C Display,1,11,11,https://www.amazon.eg/dp/B09H19NKNW
 Real-Time Clock (RTC),DS3231 Timekeeping module,1,7,7,https://www.amazon.eg/dp/B091GQDMW1
 Micro SD Card Module,Storage and logging,1,9,9,N/A
 Li-ion Battery,3.7V rechargeable power source,1,12,12,N/A
@@ -15,3 +15,4 @@ Buzzer Module,Audio alert system,1,1,1,N/A
 NTC Thermistor,Temperature sensor,1,4,4,N/A
 ,,,
 ,,**Total Estimated Cost**,,$280
+
