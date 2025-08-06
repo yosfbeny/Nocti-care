@@ -143,17 +143,10 @@ The final touches. I cleaned up the codebase, added clear annotations, and did o
 - ![alt text](assests/Pictu9re1.png)
 - ![alt text](assests/Pictur7e1.png)
 ### Expected results
-- ![the data distribution for Age and Physical activity level in the dataset from](assests/image.png)
-- ![a heatmap of correlation for the features in the Sleep Quality dataset.](assests/image-1.png)
-- ![the classification report for the XGBoost classifier (AI model)](assests/image-2.png)
-- ![readings of Heart rate and GSR sensors and the time elapsed for displaying the data in the application with some statistical analysis](assests/image-3.png)
-- ![This interprets the model.](assests/image-4.png)
-- ![Illustrate the position, in which the user sleep](assests/image-5.png)
+
 ### Analysis
-- ![Pipeline structure](assests/image-6.png)
-- ![AI models: XGBoosting as a Classifier](assests/image-7.png)
-- ![AI models: XGBoosting as a Classifier](assests/image-8.png)
-- ![XGBoosting as a regressor](assests/image-9.png)
+
+
 
 
 
