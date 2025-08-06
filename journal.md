@@ -15,7 +15,7 @@ created_at: "17/06/2025"
 **Hours spent:** 6  
 I began the Nocti-Care project by sketching out the earliest concept of the wearable itself. The vision was a soft, lightweight wristband that could be worn overnight without discomfort. I dove into academic and technical literature on sleep monitoring technologies and shortlisted potential sensor types — including GSR for stress, HRM for heart rate, and a gyroscope for motion tracking. I also drew up a system block diagram to visualize how data would flow from these sensors, through the processor, into the cloud, and eventually back to the user’s phone.
 
-![the data distribution for Age and Physical activity level in the dataset from](assets/image.png)
+- ![the data distribution for Age and Physical activity level in the dataset from](assets/image.png)
 
 ---
 
@@ -145,6 +145,7 @@ The final touches. I cleaned up the codebase, added clear annotations, and did o
 ### Expected results
 
 ### Analysis
+
 
 
 
